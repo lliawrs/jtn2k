@@ -1,6 +1,9 @@
 :root{
     --cor-de-fundo: lightblue;
+    --texto: #ffffff;
 }
 body{
     background-color:var(--cor-de-fundo);
+    color: var(--texto);
+    
     }
