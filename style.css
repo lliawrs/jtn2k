@@ -8,3 +8,8 @@ body{
     color: var(--texto);
     
     }
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
