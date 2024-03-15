@@ -8,6 +8,9 @@ body{
     color: var(--texto);
     
     }
+    img{
+        width: 10%;
+    }
 header{
     display: flex;
     flex-wrap: wrap;
