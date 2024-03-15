@@ -16,6 +16,9 @@ header{
     flex-wrap: wrap;
     align-items: baseline;
 }
-.img-dos-filmes{
+.img-filmes{
     width: 20%;
 }
+    .filmes{
+        display: flex;
+    }
