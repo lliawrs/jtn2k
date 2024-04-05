@@ -22,3 +22,6 @@ header{
     .filmes{
         display: flex;
     }
+ .subtítulo{
+flex: auto;
+ }
