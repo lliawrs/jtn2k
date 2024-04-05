@@ -23,8 +23,6 @@ header{
         display: flex;
     }
  .subtítulo{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
+  
  }
         
