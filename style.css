@@ -23,6 +23,11 @@ header{
         display: flex;
     }
  .subtítulo{
-display: flex
+display: flex;
  }
         
+ .introdução{
+    display: flex;
+    border: 3px solid  #000000;
+    border-radius: 30px;
+ }
