@@ -47,3 +47,6 @@ header a{
     color: rgb(0, 0, 0);
     text-decoration:none;
  }
+ footer{
+    background-color: cadetblue;
+ }
