@@ -43,3 +43,7 @@ display: flex;
  .foto-equipe{
     width: 40%;
  }
+ a{
+    color: darkcyan;
+    text-decoration:none;
+ }
