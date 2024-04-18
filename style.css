@@ -44,6 +44,6 @@ display: flex;
     width: 40%;
  }
  a{
-    color: darkcyan;
+    color: rgb(0, 0, 0);
     text-decoration:none;
  }
